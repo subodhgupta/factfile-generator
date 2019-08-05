@@ -6,11 +6,10 @@ Generates pdf fact files through Tableau Server
 * Additional python modules: unicodecsv, shutil
 * Tableau `tabcmd` client installed
 * A valid username and password for Tableau Server
+  username and password  must be placed in the same directory in a file called `credentials.py`
 * A valid Tableau workbook already published in the server 
 * A valid list of universities in a csv file
 * A valid ID paramter for dynamic contents
-
-  username and password  must be placed in the same directory in a file called `credentials.py`
 
 ## Usage
 * amend generator.bat with the correct parameters
