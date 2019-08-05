@@ -12,7 +12,7 @@ username and password  must be placed in the same directory in a file called `cr
 * A valid ID paramter for dynamic contents
 
 ## Usage
-* amend generator.bat with the correct parameters
+Amend generator.bat with the correct parameters, then from Windows command prompt
 ```
 generator.bat
 ```
