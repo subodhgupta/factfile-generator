@@ -9,7 +9,7 @@ Generates pdf fact files through Tableau Server
 username and password  must be placed in the same directory in a file called `credentials.py`
 * A valid Tableau workbook already published in the server 
 * A valid list of universities in a csv file
-* A valid ID paramter for dynamic contents
+* A valid ID parameter for dynamic contents
 
 ## Usage
 Amend generator.bat with the correct parameters, then from Windows command prompt
